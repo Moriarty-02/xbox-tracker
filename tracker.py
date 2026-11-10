@@ -5,7 +5,7 @@ import os
 # --- Configuración ---
 TOKEN = '9192610529:AAESTlTjCNgAH5M8y5fCKrAwJlOmrBVGQB0'
 CHAT_ID = 'R8343436298'
-PRECIO_MAX = 5000.0
+PRECIO_MAX = 10000.0
 ARCHIVO_VISTOS = 'xbox_vistos.txt'
 
 def enviar_telegram(mensaje):
